@@ -71,7 +71,7 @@ function copyProjectTemplateAndReplace(srcPath, destPath, newProjectName, option
         return upgradeFileContentChangedCallback(
           absoluteSrcFilePath,
           relativeRenamedPath,
-          contentChanged,
+          contentChanged
         );
       };
     }
