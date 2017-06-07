@@ -9,7 +9,7 @@
 'use strict';
 
 const chalk = require('chalk');
-const copyProjectTemplateAndReplace = require('react-native/local-cli/generator/copyProjectTemplateAndReplace');
+const copyProjectTemplateAndReplace = require('./copyProjectTemplateAndReplace');
 const fs = require('fs');
 const path = require('path');
 const printRunInstructions = require('react-native/local-cli/generator/printRunInstructions');
