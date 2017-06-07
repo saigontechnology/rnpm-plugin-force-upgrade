@@ -18,13 +18,10 @@
   "engines": {
     "node": ">= 4.0.0"
   },
-  "author": "Amazing React Native Community (https://github.com/facebook/react-native)",
-  "contributors": [
-    "Alexey Kureev <kureev-mail@ya.ru> (https://github.com/Kureev)",
-    "Mike Grabowski <grabbou@gmail.com> (https://github.com/grabbou)"
-  ],
+  "author": "rudyhuynh",
+  "contributors": [],
   "bugs": {
-    "url": "https://github.com/rnpm/rnpm/issues"
+    "url": "https://github.com/stssoftware/rnpm-plugin-force-upgrade/issues"
   },
   "homepage": ".",
   "license": "MIT",
