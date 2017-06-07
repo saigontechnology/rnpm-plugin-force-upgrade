@@ -151,8 +151,8 @@ function warn(message) {
 }
 
 const upgradeCommand = {
-  name: 'upgrade',
-  description: 'upgrade your app\'s template files to the latest version; run this after ' +
+  name: 'force-upgrade',
+  description: 'force upgrade your app\'s template files to the latest version; run this after ' +
     'updating the react-native version in your package.json and running npm install',
   func: validateAndUpgrade,
 };
