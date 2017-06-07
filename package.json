@@ -38,7 +38,7 @@
     "mock-fs": "^3.9.0",
     "npmlog": "^2.0.0",
     "semver": "^5.3.0",
-    "to-camel-case": "^1.0.0",
+    "to-camel-case": "^1.0.0"
   },
   "peerDependencies": {
     "react-native": "*"
