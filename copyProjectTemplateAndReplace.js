@@ -83,7 +83,7 @@ function copyProjectTemplateAndReplace(srcPath, destPath, newProjectName, option
         'HelloWorld': newProjectName,
         'helloworld': newProjectName.toLowerCase(),
       },
-      contentChangedCallback,
+      contentChangedCallback
     );
   });
 }
